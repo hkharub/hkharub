@@ -1,0 +1,20 @@
+Section -1 About Effort
+It talks about my understanding after going through the repository. I believe before designing a game, it was necessary to have an overview of what 
+all elements it will include, and this repository had almost all of it. I read the README file and tried understanding the approach required for designing
+a game and necessary documentation.
+Section -2 Learning about the Project
+In a project it is important for everyone to know in what direction is the project going or what is the current state of the project. 
+GitHub is a great platform to maintain all such activities and through discord one can stay connected and seek help easily. 
+Project is very well explained and documented. The repository includes all necessary elements by means of which one can understand the project. 
+This can be of great help to those who are just starting a new project.
+Section –3 Questions about the Project
+•	How to use unity and rider? In the repository, it has been mentioned to make rider the default script editor for Unity which I failed to do.
+•	Does Github UI and Github CLI/Desktop provide similar functionalities? 
+•	Is this game an improved or advanced version of lightbot?
+•	What is the objective of Color Swirl Level?
+•	Did not understand prototype for 10_28_2019
+Section -4 Proposal to make it easier for other folks who are just starting out on the project. Proposed changes in the repo to make it easier for them to better 
+understand the project.
+I would not delete but rather include some information in the repository. 
+More information about use of rider and unity and may be provide some instructions on how to use them. 
+Also, there is a list of algorithms under Research Notes tab, this could have been made more informative.
